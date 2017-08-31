@@ -1,6 +1,6 @@
 # chip8c
 
-[![CHIP8C demo](https://img.youtube.com/vi/av1oQvbHOi4/2.jpg)](https://youtu.be/av1oQvbHOi4)
+[![CHIP8C demo](https://img.youtube.com/vi/av1oQvbHOi4/0.jpg)](https://youtu.be/av1oQvbHOi4)
 
 
 Mac Installation
