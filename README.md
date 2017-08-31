@@ -15,4 +15,4 @@ gcc -o chip8c -Wall main.c sdl_helpers.c chip8.c -I/Library/Frameworks/SDL2.fram
 
 Then to run enter the command:
 
-./chip8c *game name*
+./chip8c *"game name"*
