@@ -4,10 +4,10 @@ This project is an interpreter and virtual machine for chip-8. Chip-8 is an inte
 
 Key mappings
 
-|_ 1_ 2_ 3_ 4|          |_ 1_ 2_ 3_ 4|
-|_ 5_ 6_ 7_ 8|     =>   |_ q_ w_ e_ r|
-|_ 9_10_11_12|     =>   |_ a_ s_ d_ f|
-|_13_14_15_16|          |_ z_ x_ c_ v|
+|_ 1_ 2_ 3_ 4|          |_ 1_ 2_ 3_ 4|  
+|_ 5_ 6_ 7_ 8|     =>   |_ q_ w_ e_ r|  
+|_ 9_10_11_12|     =>   |_ a_ s_ d_ f|  
+|_13_14_15_16|          |_ z_ x_ c_ v|  
 
 Note: Key mappings vary by game so you have to get a feel for each game.
 
