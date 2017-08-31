@@ -16,3 +16,5 @@ gcc -o chip8c -Wall main.c sdl_helpers.c chip8.c -I/Library/Frameworks/SDL2.fram
 Then to run enter the command:
 
 ./chip8c *"game name"*
+
+A pack of public domain games is available [here](https://www.zophar.net/pdroms/chip8/chip-8-games-pack.html).
